@@ -1,6 +1,6 @@
 # Batch File For Goanimate Remastered 
 
-This GitHub repo was made as a .bat file for a GoAnimate API wrappper called [GoAnimate Remastered](https://github.com/CyberStudioUnited/Goanimate-Remastered)
+This GitHub repo was made as a .bat file for a GoAnimate API wrapper called [GoAnimate Remastered](https://github.com/CyberStudioUnited/Goanimate-Remastered)
 
 Instructions:
 
